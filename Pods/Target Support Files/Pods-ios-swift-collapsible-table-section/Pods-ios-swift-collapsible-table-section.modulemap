@@ -1,0 +1,6 @@
+framework module Pods_ios_swift_collapsible_table_section {
+  umbrella header "Pods-ios-swift-collapsible-table-section-umbrella.h"
+
+  export *
+  module * { export * }
+}
